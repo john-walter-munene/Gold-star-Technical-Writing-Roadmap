@@ -6,18 +6,17 @@ Learning how to write has never been easy. I have collected a pool of resources 
 
 ## 📚 Roadmap
 
-1. [Introduction](00-introduction.md)
-2. [Getting Started](01-getting-started.md)
-3. [Grammar & Syntax](02-grammar-and-syntax.md)
-4. [Content Creation](03-content-creation.md)
-5. [Diving Into Writing](04-diving-into-writing.md)
-6. [SEO](05-seo.md)
-7. [Writing Journey](06-writing-journey.md)
-8. [First Draft](07-first-draft.md)
-9. [Good Writers](08-good-writers.md)
-10. [Final Tips](09-final-tips.md)
-11. [Job Market](10-job-market.md)
-12. [Thank You](11-thank-you.md)
+1. [Getting Started](01-getting-started.md)
+2. [Grammar & Syntax](02-grammar-and-syntax.md)
+3. [Content Creation](03-content-creation.md)
+4. [Diving Into Writing](04-diving-into-writing.md)
+5. [SEO](05-seo.md)
+6. [Writing Journey](06-writing-journey.md)
+7. [First Draft](07-first-draft.md)
+8. [Good Writers](08-good-writers.md)
+9. [Final Tips](09-final-tips.md)
+10. [Job Market](10-job-market.md)
+11. [Thank You](11-thank-you.md)
 
 ## 💡 Who is this for?
 - Beginners interested in technical writing
