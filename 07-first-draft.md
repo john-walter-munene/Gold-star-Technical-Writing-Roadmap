@@ -20,5 +20,5 @@ When you start your article, envision a similar piece you'd want to mirror in te
 
 <div style="display: flex; justify-content: space-between;">
     <a href="06-writing-journey.md">← Previous</a>
-    <a href="07-good-writers.md">Next →</a>
+    <a href="08-good-writers.md">Next →</a>
 </div>
